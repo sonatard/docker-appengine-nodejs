@@ -1,4 +1,4 @@
-FROM circleci/node:13.14.0-browsers-legacy
+FROM circleci/node:14-browsers-legacy
 
 ARG HOME=/home/circleci
 
